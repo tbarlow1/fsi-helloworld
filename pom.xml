@@ -30,7 +30,7 @@
                 </descriptorRefs>
                 <archive>
                     <manifest>
-                        <mainClass>com.crossvale.demo.fsidisputes.Hello-</mainClass>
+                        <mainClass>com.crossvale.demo.fsidisputes.Hello</mainClass>
                     </manifest>
                 </archive>
             </configuration>
